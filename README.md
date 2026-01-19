@@ -33,8 +33,8 @@ I am interested in technology, problem solving, and learning new IT skills.
 - Systems Analysis and Design
 
 ## 🏆 Additional
-- Course Projects
-- University Assignments
+- TIS PROJECT 
+- SYSTEM AND DESIGN PROJECT
 
 
 <p align="left">
